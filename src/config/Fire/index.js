@@ -5,9 +5,6 @@ firebase.initializeApp({
   authDomain: '',
   databaseURL: '',
   projectId: '',
-  storageBucket: '',
-  messagingSenderId: '',
-  appId: '',
 });
 
 const Fire = firebase;
