@@ -4,7 +4,11 @@ Nama aplikasi ini adalah Javier-Resto dengan sistem POS (Point of Sale), Aplikas
 
 ## Gambar Aplikasi
 <p float="left">
-  <img src="https://github.com/aryoputrap/doctorapp/blob/main/src/assets/1.png" width="200" height="350" alt="Choose a Service Type"/>
+  <img src="https://github.com/aryoputrap/doctorapp/blob/main/src/assets/sc/1.PNG" width="200" height="350" alt="Choose a Service Type"/>
+<img src="https://github.com/aryoputrap/doctorapp/blob/main/src/assets/sc/2.PNG" width="200" height="350" alt="Menu"/>
+<img src="https://github.com/aryoputrap/doctorapp/blob/main/src/assets/sc/3.PNG" width="200" height="350" alt="Menu"/>
+<img src="https://github.com/aryoputrap/doctorapp/blob/main/src/assets/sc/4.PNG" width="200" height="350" alt="Menu"/>
+
 </p>
 <!-- video
 <p float="left">
